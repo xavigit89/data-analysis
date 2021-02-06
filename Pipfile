@@ -7,6 +7,7 @@ name = "pypi"
 jupyter = "*"
 scipy = "*"
 yellowbrick = "*"
+seaborn = "*"
 
 [dev-packages]
 ipython = "*"
