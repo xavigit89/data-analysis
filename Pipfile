@@ -8,6 +8,10 @@ jupyter = "*"
 scipy = "*"
 yellowbrick = "*"
 seaborn = "*"
+altair = "*"
+vega-datasets = "*"
+notebook = "*"
+vega = "*"
 
 [dev-packages]
 ipython = "*"
