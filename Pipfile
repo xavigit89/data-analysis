@@ -12,6 +12,7 @@ altair = "*"
 vega-datasets = "*"
 notebook = "*"
 vega = "*"
+plotly = "*"
 
 [dev-packages]
 ipython = "*"
