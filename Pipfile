@@ -6,6 +6,13 @@ name = "pypi"
 [packages]
 jupyter = "*"
 scipy = "*"
+yellowbrick = "*"
+seaborn = "*"
+altair = "*"
+vega-datasets = "*"
+notebook = "*"
+vega = "*"
+plotly = "*"
 
 [dev-packages]
 ipython = "*"
